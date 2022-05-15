@@ -1,3 +1,4 @@
+import react from 'react';
 import ReactDOM from 'react-dom';
 import styles from "./index.module.css"
 import App from './App';

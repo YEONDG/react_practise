@@ -12,10 +12,10 @@ function App() {
     });
   }
   return (
-    <div>
+    <>
       <Expense onAddUser={addUserHandler}/>
       <UserList users={usersList} />
-    </div>
+    </>
   );
 }
 
